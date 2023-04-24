@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-For Quick Overview Link :- [EzzyCrypto](ezzycrypto.netlify.app)
+For Quick Overview Link :- <a> ezzycrypto.netlify.app</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
